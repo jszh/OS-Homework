@@ -1,5 +1,7 @@
 # lab0 SPOC思考题
 
+https://github.com/chyyuu/os_course_exercises/blob/2018spring/all/01-3-lab0-spoc-discussion.md
+
 ##**提前准备**
 （请在上课前完成，option）
 
